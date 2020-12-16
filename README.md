@@ -12,6 +12,6 @@ source bin/activate
 
 pip install -r requirements.txt
 
-## run the api
+# Run
 
 python api.py
